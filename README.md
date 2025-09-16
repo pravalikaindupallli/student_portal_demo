@@ -1,2 +1,2 @@
 # student_portal_demo
-student demo - devops
+Basic Idea of a Student portal application
